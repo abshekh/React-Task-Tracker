@@ -19,7 +19,7 @@ const Footer = () => {
           {' '}
           {new Date().getFullYear()}
           {
-            location.pathname === '/React-Task-Tracker' ?
+            location.pathname === '/React-Task-Tracker/' ?
               (
                 <>
                   <br />
@@ -29,7 +29,7 @@ const Footer = () => {
               :
               <>
                 <br />
-                <Link to="/React-Task-Tracker">Go back</Link>
+                <Link to="/React-Task-Tracker/">Go back</Link>
               </>
           }
         </Typography>

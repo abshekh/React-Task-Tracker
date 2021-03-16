@@ -25,7 +25,7 @@ const Header = ({ title, showAddTask, toggleShowAddTask }) => {
       </Grid>
       <Grid item>
         {
-          location.pathname === '/React-Task-Tracker' && <Button
+          location.pathname === '/React-Task-Tracker/' && <Button
             variant="contained"
             color={showAddTask ? "secondary" : "primary"}
             onClick={toggleShowAddTask}
