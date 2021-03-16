@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Task-Tracker/static/css/main.27cb43b5.chunk.css",
+    "main.js": "/React-Task-Tracker/static/js/main.ee787a00.chunk.js",
+    "main.js.map": "/React-Task-Tracker/static/js/main.ee787a00.chunk.js.map",
+    "runtime-main.js": "/React-Task-Tracker/static/js/runtime-main.2a96894c.js",
+    "runtime-main.js.map": "/React-Task-Tracker/static/js/runtime-main.2a96894c.js.map",
+    "static/js/2.b4bdcca5.chunk.js": "/React-Task-Tracker/static/js/2.b4bdcca5.chunk.js",
+    "static/js/2.b4bdcca5.chunk.js.map": "/React-Task-Tracker/static/js/2.b4bdcca5.chunk.js.map",
+    "static/js/3.d71dde35.chunk.js": "/React-Task-Tracker/static/js/3.d71dde35.chunk.js",
+    "static/js/3.d71dde35.chunk.js.map": "/React-Task-Tracker/static/js/3.d71dde35.chunk.js.map",
+    "index.html": "/React-Task-Tracker/index.html",
+    "static/css/main.27cb43b5.chunk.css.map": "/React-Task-Tracker/static/css/main.27cb43b5.chunk.css.map",
+    "static/js/2.b4bdcca5.chunk.js.LICENSE.txt": "/React-Task-Tracker/static/js/2.b4bdcca5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a96894c.js",
+    "static/js/2.b4bdcca5.chunk.js",
+    "static/css/main.27cb43b5.chunk.css",
+    "static/js/main.ee787a00.chunk.js"
+  ]
+}
